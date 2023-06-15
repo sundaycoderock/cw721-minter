@@ -1,0 +1,1 @@
+1fc391a54879a381f5d4de41406b7d23be5534392a99c62ca903d1dd4b8be4c6  ./target/wasm32-unknown-unknown/release/cw721_minter.wasm
